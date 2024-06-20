@@ -5,7 +5,7 @@ Life long learner, active in a variety hobby projects spanning from:
 * Home automation projects based on a variety of hardware and software including:
   * Microcontrollers: STM32F7, STM32H7, nRF52840, ESP32-S3
   * RTOS: FreeRTOS, Zephyr RTOS, ThreadX
-  * Primarily written in Embedded-C with an equal mix of bare-metal and RTOS.
+  * Primarily written in Embedded-C/C++ with an equal mix of bare-metal and RTOS.
 * PowerShell automations to improve development workflows.
 * CLI tools written in C#/PowerShell.
 * GUI applications (for client-side control of embedded devices) using C# WPF.
