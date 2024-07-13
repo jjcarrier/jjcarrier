@@ -13,11 +13,11 @@ Life long learner, active in a variety hobby projects spanning from:
 
 Currently employed as a Firmware Engineer with a primary focus on Embedded-C on baremetal and RTOS (ThreadX).
 
-## Other Accounts and Related Contributions
+## Other Accounts and Related Public Contributions
 
 * [XMOS Account](https://github.com/jcarrier-xmos)
-  * [sln_voice](https://github.com/xmos/sln_voice): SDK for voice-based control
-  * [xcore_iot](https://github.com/xmos/xcore_iot): SDK for IoT applications
+  * [sln_voice](https://github.com/xmos/sln_voice): SDK for voice-based control. Collection of CMake projects primarily based on C and SMP version of FreeRTOS.
+  * [xcore_iot](https://github.com/xmos/xcore_iot): SDK for IoT applications. Collection of CMake projects primarily based on C and SMP version of FreeRTOS.
 * [HMS-Networks Account](https://github.com/joca-hms)
   * [ABCC SPI Analyzer Plugin](https://github.com/hms-networks/AbccSpiAnalyzer): A logic analyzer plugin for Saleae Logic Software targetting HMS Networks' ABCC SPI Protocol for industrial communications.
   * [CosmosConsoleClient](https://github.com/hms-networks/CosmosConsoleClient): A C# dotnet core utility for interacting with a Microsoft Azure Cosmos DB instance via command line
