@@ -7,7 +7,7 @@ Life long learner, active in a variety hobby projects spanning from:
   * RTOS: FreeRTOS, Zephyr RTOS, ThreadX
   * Primarily written in Embedded-C/C++ with an equal mix of bare-metal and RTOS.
 * PowerShell automations to improve development workflows.
-* CLI tools written in C#/PowerShell.
+* CLI tools written in C#/PowerShell. I have a great appreciation for good tools, physical and digital.
 * GUI applications (for client-side control of embedded devices) using C# WPF.
 * Occassional explorations into FPGAs
 
